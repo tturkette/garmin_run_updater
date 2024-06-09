@@ -1,3 +1,6 @@
+# Ignore .garmin_run_updater/ and all its contents
+.garmin_run_updater/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
